@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{F55774E5-6E53-4746-979F-35AEF028851E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree.Tests", "Tree.Tests\Tree.Tests.csproj", "{B05B8E19-D300-440D-A240-EB82B209BC2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree.Core", "Tree.Core\Tree.Core.csproj", "{BA76F1E8-D865-4EFA-B921-37BDEB29C741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55774E5-6E53-4746-979F-35AEF028851E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55774E5-6E53-4746-979F-35AEF028851E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55774E5-6E53-4746-979F-35AEF028851E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55774E5-6E53-4746-979F-35AEF028851E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05B8E19-D300-440D-A240-EB82B209BC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05B8E19-D300-440D-A240-EB82B209BC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05B8E19-D300-440D-A240-EB82B209BC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05B8E19-D300-440D-A240-EB82B209BC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA76F1E8-D865-4EFA-B921-37BDEB29C741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA76F1E8-D865-4EFA-B921-37BDEB29C741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA76F1E8-D865-4EFA-B921-37BDEB29C741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA76F1E8-D865-4EFA-B921-37BDEB29C741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
